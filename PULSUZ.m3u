@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Az tv
 #EXTGRP:YODA
-https://avva.magnitude.workers.dev/?url=https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiMjEyLjQ3LjE0Mi4xOTAiLCJ1YWgiOiI1YTllZTczOTExNmNlMmUyIiwiaWF0IjoxNzk1NjE2NDAxLCJleHAiOjE3OTU2MTgyMDEsImp0aSI6ImMyMzM0YmU5NmJkMjhmYTMifQ.9ez02EBGzZwZVL7HxmCdqmEKpoP6HPbBqXD6pSbjzUA
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiMjEyLjQ3LjE0Mi4xOTAiLCJ1YWgiOiI1YTllZTczOTExNmNlMmUyIiwiaWF0IjoxNzk1NjE2NDAxLCJleHAiOjE3OTU2MTgyMDEsImp0aSI6ImMyMzM0YmU5NmJkMjhmYTMifQ.9ez02EBGzZwZVL7HxmCdqmEKpoP6HPbBqXD6pSbjzUA
 
 #EXTINF:-1,ictimai
 #EXTGRP:YODA
